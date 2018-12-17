@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/vipfan/ipa/blob/master/Shadowrocket_2.1.23.ipa</string>
+                        <string>https://raw.githubusercontent.com/vipfan/ipa/master/Shadowrocket_2.1.23.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
